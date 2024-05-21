@@ -5,7 +5,7 @@ python-socketio>=4.2.0
 flask_sockets>=0.2.1
 Werkzeug>=0.15.1
 Pillow==5.4.1
-requests>=2.20
+requests>=2.32.0
 cffi>=1.12.3
 psutil>=5.2.0
 chardet>=3.0.4
